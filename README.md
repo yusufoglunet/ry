@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I'm passionate about technology, open-source softw
 ---
 
 ### 📫 Let's Connect!
-- 🌐 [Portfolio Website](YUSUFOGLU.NET)  
+- 🌐 [Portfolio Website](https://yusufoglu.net/)  
 - 🐦 [Twitter](https://twitter.com/rezakyusuf)   
 - ✉️ [Email](mailto:rezak@yusufoglu.net)  
 
